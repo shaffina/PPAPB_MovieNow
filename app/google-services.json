@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254187708631",
+    "project_id": "watchnow-7a70d",
+    "storage_bucket": "watchnow-7a70d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254187708631:android:7fff5bc933470c07109092",
+        "android_client_info": {
+          "package_name": "com.example.movienow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClSVqcepLerg0k0r0-Y-wFhE60YhIpCAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254187708631:android:f1cf22d4fde82e03109092",
+        "android_client_info": {
+          "package_name": "com.example.watchnow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClSVqcepLerg0k0r0-Y-wFhE60YhIpCAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

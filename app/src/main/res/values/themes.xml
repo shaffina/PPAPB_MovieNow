@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MovieNow" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/lavender</item>
+        <item name="colorSecondary">@color/white</item>
+    </style>
+
+    <style name="Theme.MovieNow" parent="Base.Theme.MovieNow" />
+</resources>
